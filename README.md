@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @arumlim
-- 👀 I’m interested in p2e,mining and all about etherium eco systems.
-- 🌱 I’m currently learning Etherium
+- 👀 I’m interested in p2e games, coin mining and all about ethereum eco systems.
+- 🌱 I’m currently learning Ethereum
 - 💞️ I’m looking to collaborate on develope p2e games 
 - 📫 How to reach me arumlim@gmail.com
 
